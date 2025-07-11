@@ -1,2 +1,2 @@
-# AirlSentiment-Machine-Learning-Project
+# AirSentiment-Machine-Learning-Project
 To learn and implement data science project
